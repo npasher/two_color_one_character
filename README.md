@@ -1,1 +1,1 @@
-# two_color_one_character
+Simple example of utilizing HTML and CSS to display characters in two colors.
