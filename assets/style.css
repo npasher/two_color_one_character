@@ -1,7 +1,7 @@
 span {
-  font-size:78px;
+  font-size:100px;
   position:relative;
-  color:rgba(50,50,200,0.5);
-  background-image:linear-gradient(to right,rgb(50,50,200) 0%,rgb(50,50,200) 49.99%,rgba(50,50,200,0.5) 50%,rgba(50,50,200,0.5) 100%);
+  color:rgba(88,0,0,0.5);
+  background-image:linear-gradient(to right,rgb(88,0,0) 0%,rgb(88,0,0) 49.99%,rgba(88,0,0,0.5) 50%,rgba(88,0,0,0.5) 100%);
   -webkit-background-clip:text;
 }
